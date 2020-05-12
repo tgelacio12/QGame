@@ -1,0 +1,11 @@
+C:\Users\tmlge\Desktop\repo\QGame\QGame\bin\Debug\QGame.exe.config
+C:\Users\tmlge\Desktop\repo\QGame\QGame\bin\Debug\QGame.exe
+C:\Users\tmlge\Desktop\repo\QGame\QGame\bin\Debug\QGame.pdb
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.csprojAssemblyReference.cache
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.ControlPanelForm.resources
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.DesignForm.resources
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.Properties.Resources.resources
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.csproj.GenerateResource.cache
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.exe
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.pdb
+C:\Users\tmlge\Desktop\repo\QGame\QGame\obj\Debug\QGame.PlayForm.resources
